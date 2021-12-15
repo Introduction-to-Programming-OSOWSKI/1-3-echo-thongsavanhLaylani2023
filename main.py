@@ -1,2 +1,2 @@
-def echo(bird, 5):
+def echo():
     return "bird" * 5
